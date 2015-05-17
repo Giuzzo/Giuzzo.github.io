@@ -1,4 +1,4 @@
-# Introduzione
+# |Introduzione|
 
 Sono **Giorgio Nuzzo**, studente di Design&Engineering al Politecnico di Milano. 
 
