@@ -2,7 +2,7 @@
 
 Sono **Giorgio Nuzzo**, studente di Design&Engineering al Politecnico di Milano. 
 
-![GiorgioNuzzo_portrait](../img/2015-05-17-presentazione5.png) [online_portfolio2015](http://issuu.com/giorgionuzzo/docs/giorgio_nuzzo__portfolio2015low)
+![Me_portrait](../img/2015-05-17-introduzione.png)) (http://issuu.com/giorgionuzzo/docs/giorgio_nuzzo__portfolio2015low)
 
 Nell'ambito di un tirocinio formativo curriculare sto avendo l'opportunità di lavorare e formarmi all'interno del fablab milanese **WeMake**, dove mi è stato proposto di proseguire ed implementare un progetto già intrapreso da qualche tempo all'interno del makerspace.
 
