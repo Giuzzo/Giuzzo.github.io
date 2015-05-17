@@ -7,7 +7,7 @@ In prima battuta si è manifestata l'esigenza di avere una seconda **stampante p
 Da premettere la possibilità di una partecipazione di MyChock all' Expo2015 di Milano. 
 Avere due stampanti funzionanti poterne avere una "stabile" per eventuali futuri ordini di barrette, ed una seconda sulla quale lavorare per la progettazione del case e sulla quale sia possibile sperimentare miglioramenti tecnologici, che sia disponibile anche per delle demo in eventi futuri.
 
-![3drag choko](https://scontent-mxp.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11258280_10205622943687348_8839484512848332228_n.jpg?oh=3bbb5a4df6bbfefdf2b0a65bcbd00b4d&oe=56016E51)
+![3drag choko](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/31320c01d0d73de6a35f01251849ea1501914ca7/_images/4.jpg)
 
 Le stampanti in questione sono delle **3drag**, stampanti  FDM che lavorano con materiali plastici, sulle quali viene sostituito all'estrusore tradizionale un sistema di estrusione per il cioccolato a siringa.
 Sia la stampante che il kit di modifica del sistema estrusore sono acquistabili sul sito di shop della casa produttrice **Futura Elettronica**. [futurashop](https://www.futurashop.it/)
