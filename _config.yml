@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Giuzzo.github.io
+title: MyChok-WeMake 
+email: giorgio.nuzzo@gmail.com
+author: GiorgioNuzzo
+description: Report del lavoro svolto nel fablab milanese WeMake nell'ambito del progetto MyChok
+paginate: 3
+google_analytics: 
