@@ -16,6 +16,9 @@ Sia la stampante che il kit di modifica del sistema estrusore sono acquistabili 
 
 Istruzioni dettagliate sull'assemblaggio del kit per la stampa del cioccolato al [link](http://3dprint.elettronicain.it/3drag-stampante-per-cioccolato/).
 
+[Disehìgni tecnici](http://www.open-electronics.org/wp-content/uploads/2014/10/Disegni-tecnici.jpg) dettagliati dei componenti presenti nel kit. Parte di questi sono stampabili 3d, quindi modificabili in funzione delle proprie esigenze.
+
+
 A differenza di quanto illustrato nel link sovracitato l'utilizzo di un morsetto mammut per il cablaggio può rendere il lavoro più agevole ed ordinato.
 
 ![morsetto mammut](https://scontent-mxp.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11265250_10205623956192660_4798043149466143287_n.jpg?oh=6cb67d9a0aafb270ac017b8542b26ded&oe=55CC8E45)
