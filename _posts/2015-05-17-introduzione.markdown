@@ -2,11 +2,11 @@
 
 Sono **Giorgio Nuzzo**, studente di Design&Engineering al Politecnico di Milano. 
 
-![Me_portrait](../img/2015-05-17-introduzione.png)) (http://issuu.com/giorgionuzzo/docs/giorgio_nuzzo__portfolio2015low)
+![Me_portrait](https://scontent-mxp.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11209449_10205622105426392_3231309745813993032_n.jpg?oh=14be2deb37a10f0f0f6ebdd275f32bfc&oe=55CDBD02) [online portfolio](http://issuu.com/giorgionuzzo/docs/giorgio_nuzzo__portfolio2015low)
 
 Nell'ambito di un tirocinio formativo curriculare sto avendo l'opportunità di lavorare e formarmi all'interno del fablab milanese **WeMake**, dove mi è stato proposto di proseguire ed implementare un progetto già intrapreso da qualche tempo all'interno del makerspace.
 
-![wemake_logo](../img/2015-05-17-presentazione4.png)[wemake.cc](http://wemake.cc)
+![wemake_logo](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xat1/v/t1.0-9/11148584_10205622105466393_8054671611242114839_n.jpg?oh=85c462183edfbfdf76bf321be2d43d98&oe=560B3F3A&__gda__=1443181048_b4b99f6fffd126f8879448e818962eef)[wemake.cc](http://wemake.cc)
 
 **MyChok**, nasce nello spazio di coworking Login e coinvolge diversi attori oltre al già citato WeMake.
 Scopo ultimo del progetto è la realizzazione di un servizio-prodotto che permetta la personalizzazione on-line di tavolette di cioccolato (realizzate da "Dolci Libertà", cioccolateria artigianale operante nel carcere di Busto Arsizio), tramite l'ausilio della stampa FDM del cioccolato stesso, e la consegna dell'ordine in brevi tempi.
