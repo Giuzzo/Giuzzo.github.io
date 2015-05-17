@@ -18,7 +18,7 @@ Istruzioni dettagliate sull'assemblaggio del kit per la stampa del cioccolato al
 
 A differenza di quanto illustrato nel link sovracitato l'utilizzo di un morsetto mammut per il cablaggio può rendere il lavoro più agevole ed ordinato.
 
-![morsetto mammut](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/31320c01d0d73de6a35f01251849ea1501914ca7/_images/6.jpg)
+![morsetto mammut](https://github.com/Giuzzo/Giuzzo.github.io/blob/master/_images/8.jpg?raw=true)
 
 [Disegni tecnici](http://www.open-electronics.org/wp-content/uploads/2014/10/Disegni-tecnici.jpg) dettagliati dei componenti presenti nel kit. Parte di questi sono stampabili 3d, quindi modificabili in funzione delle proprie esigenze.
 
