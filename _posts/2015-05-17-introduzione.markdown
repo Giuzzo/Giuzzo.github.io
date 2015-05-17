@@ -3,10 +3,9 @@ published: true
 title: Introduzione
 layout: post
 ---
-
 Sono **Giorgio Nuzzo**, studente di Design&Engineering al Politecnico di Milano. 
 
-![Me_portrait](https://scontent-mxp.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11209449_10205622105426392_3231309745813993032_n.jpg?oh=14be2deb37a10f0f0f6ebdd275f32bfc&oe=55CDBD02) [online portfolio](http://issuu.com/giorgionuzzo/docs/giorgio_nuzzo__portfolio2015low)
+![Me_portrait](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/11205567_10205622247949955_7892338943348513350_n.jpg?oh=d63838102a03229e1d4b248dca914f62&oe=55C53664&__gda__=1439923570_24163ed56efe64de11fd6b19d6ecfd92) [online portfolio](http://issuu.com/giorgionuzzo/docs/giorgio_nuzzo__portfolio2015low)
 
 Nell'ambito di un tirocinio formativo curriculare sto avendo l'opportunità di lavorare e formarmi all'interno del fablab milanese **WeMake**, dove mi è stato proposto di proseguire ed implementare un progetto già intrapreso da qualche tempo all'interno del makerspace.
 
