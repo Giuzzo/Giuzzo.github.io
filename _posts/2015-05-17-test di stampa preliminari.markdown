@@ -1,3 +1,8 @@
+---
+published: true
+title: Test di stampa preliminari
+layout: post
+---
 Per verificare il corretto assemblaggio, e l'effettiva funzionalità del nuovo gruppo estrusore sono stati fatti dei primi test utilizzando la **maionese** anzichè la cioccolata.
 
 L'utilizzo della maionese ha evitato di dover lavorare con del cioccolato fuso, con le relative perdite di tempo legate al necessario riscaldamento e successivo raffreddamento per la tempra.
