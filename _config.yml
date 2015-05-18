@@ -2,8 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://Giuzzo.github.io
-title: MyChok | WeMake | Giorgio Nuzzo 
-banner: <img src="http://wemake.cc/core/uploads/2014/11/background-1-980x600.jpg" border="0"/>
+title: MyChok | WeMake | Giorgio Nuzzo <img src="http://wemake.cc/core/uploads/2014/11/background-1-980x600.jpg"/>
 email: giorgio.nuzzo@gmail.com
 author: Giorgio Nuzzo
 description: Report del lavoro svolto nel fablab milanese WeMake nell'ambito del progetto MyChok
