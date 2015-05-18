@@ -30,7 +30,7 @@ Per ottenere gli STL dei vari testi in modo rapido è stato utilizzato il softwa
 Nelle impostazioni di esportazione i parametri inseriti sono stati extrude=0.6 e smooth=0 (in modo da ottenere testi formati da un solo livello di stampa.
 Aprendo il file .scad così ottenuto con [OpenScad](http://www.openscad.org/) è sufficente processarlo (F6) ed esportarlo in STL.
 
-In alternativa è possibile utilizzare l'applicazione [123d Design](http://www.123dapp.com/design) all'interno della quale può essere importato direttamente un file .svg. Tuttavia l'estrusione in questo caso va fatta in modo manuale ed in generale l'operazione risulta essere più lenta.
+In alternativa è possibile utilizzare l'applicazione Autodesk [123d Design](http://www.123dapp.com/design) all'interno della quale può essere importato direttamente un file .svg. Tuttavia l'estrusione in questo caso va fatta in modo manuale ed il software risulta essere meno reattivo. L'operazione è quindi più lenta.
 
 Tutti i software sopra citati hanno licenza libera.
 
