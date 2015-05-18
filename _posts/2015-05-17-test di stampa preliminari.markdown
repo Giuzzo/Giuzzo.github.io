@@ -26,4 +26,5 @@ Una volta riempita la siringa è necessario tenerla con la testa rivolta verso l
 Rimuovere l'ago in una prima fase può facilitare tale operazione. 
 
 In questa prima fase di test, in cui non c'erano particolari esigenze igieniche le siringhe sono state riutilizzate più volte. 
-Tuttavia il loro utilizzo rimane comunque limitato al rapido logorio della parte anteriore in gomma del pistone.
+Tuttavia il loro utilizzo rimane comunque limitato al rapido logorio della parte anteriore del pistone in gomma.
+In caso di un riutilizzo intensivo della stessa siringa, o nel caso al suo interno rimangano grosse bolle d'aria il pistone tende a grippare.
