@@ -15,5 +15,15 @@ In queste prime fasi si è preferito controllare la macchina dal PC, per tale ra
 
 ![loghi](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/9.jpg)
 
+![stampa repetier](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/11.jpg)
+
 ![stampa mayo](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/10.jpg)
 
+L'utilizzo della **cartaforno** evita di dover ripulire ad ogni stampa il piano in vetro e permette di conservare i test effettuati per vedere come si comportano nel tempo.
+
+La fase di **riempimento della siringa** è di fondamentale importanza in quanto bisogna avere l'accortezza di lasciare quanta meno aria possibile al suo interno. L'aria all'interno della siringa può impedire l'uscita del fluido e/o provocarne una fuoriuscita incontrollata compromettendo la stampa.
+Una volta riempita la siringa è necessario tenerla con la testa rivolta verso l'alto ribattendo leggermente sul pistone, e portandolo in sù fino a quando la massa fluida apparirà uniforme.
+Rimuovere l'ago in una prima fase può facilitare tale operazione. 
+
+In questa prima fase di test, in cui non c'erano particolari esigenze igieniche le siringhe sono state riutilizzate più volte. 
+Tuttavia il loro utilizzo rimane comunque limitato al rapido logorio della parte anteriore in gomma del pistone.
