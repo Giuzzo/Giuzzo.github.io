@@ -25,3 +25,13 @@ Qui sotto sono visibili le foto dei test.
 ![quicksand bold](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/19.jpg)
 
 ![raleway bold](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/20.jpg)
+
+Per ottenere gli STL dei vari testi in modo rapido è stato utilizzato il software di grafica [Inkscape](https://inkscape.org/it/) e la sua estenzione [PathsToOpenScad](http://www.thingiverse.com/thing:25036).
+Nelle impostazioni di esportazione i parametri inseriti sono stati extrude=0.6 e smooth=0 (in modo da ottenere testi formati da un solo livello di stampa.
+Aprendo il file .scad così ottenuto con [OpenScad](http://www.openscad.org/) è sufficente processarlo (F6) ed esportarlo in STL.
+
+In alternativa è possibile utilizzare l'applicazione [123d Design](http://www.123dapp.com/design) all'interno della quale può essere importato direttamente un file .svg. Tuttavia l'estrusione in questo caso va fatta in modo manuale ed in generale l'operazione risulta essere più lenta.
+
+Tutti i software sopra citati hanno licenza libera.
+
+Ovviamente è possibile ottenere i file STL importando i testi in formato cad in qualsiasi programma di modellazzione.
