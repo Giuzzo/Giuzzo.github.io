@@ -8,7 +8,7 @@ Oltre ad i font selezionati si è cercato di svillupare un modo per poter ottene
 Il primo tentativo è stato quello di ottenere un STL in cui il corpo delle lettere fosse formato da una singola superficie e non da un volume.
 
 Semplificando il problema alle due dimensioni,normalmente tutti i font hanno un proprio corpo che viene scalato in funzione delle proprie dimensioni.
-E' stato possibile ottenere dei testi che fossero formati da una linea di spessore noto a prescindere dal corpo del testo grazie ad un'estenione del software di grafica os [Inkscape](https://inkscape.org/).
+E' stato possibile ottenere dei testi che fossero formati da una linea singola grazie ad un'estenione del software di grafica os [Inkscape](https://inkscape.org/).
 
 L'estensione in questione utilizza dei Font Hershey, ed è scaricabile a  [questo link](http://www.evilmadscientist.com/2011/hershey-text-an-inkscape-extension-for-engraving-fonts/) nel quale sono presenti anche le istruzioni per l'installazione e l'utilizzo.
 
@@ -18,5 +18,10 @@ Una volta scritto il testo desiderato è possibile esportarlo in un formato CAD 
 
 Ovviamente non è possibile in questo caso semplificare l'operazione con OpenScad come descritto nel [post precedente](http://giuzzo.github.io/2015/05/18/test%20di%20stampa%20font.html), in quanto non è possibile utilizzare softwares che lavorino per solidi in quanto questi non permettono l'estrusione di una linea senza spessore.
 
-Una volta importato l'STL così ottenuto all'interno di Cura non è però stato possibile ottenere un gcode che permettesse di avere una stampa monoline del tutto corretta.
-Sarà quindi necessario approfondire l'argomento in futuro.
+Cura tuttavia non riesce tuttavia a gestire correttamente lo slicing di singole superfici.
+
+Risultati apprezzabili sono stati ottenuti però trasformando in Inskape il testo Hershey ottenuto da linea in tracciato pieno. In questo modo è possibile gestire il testo come se si stesse trattando con un font tradizionale, ma lo spessore del corpo dei caratteri è noto a prescindere dalle dimensioni generali del testo. 
+Prima di eseguire la trasformazione occorre quindi assegnare al testo uno spessore di linea uguale, o prossimo alla dimensione dell'ugello impostata su Cura, dopodichè si può proseguire come [precedentemente descritto](http://giuzzo.github.io/2015/05/18/test%20di%20stampa%20font.html).
+
+Tuttavia questa operazione, pur dando dei discreti risultati (non sempre ottimali), risulta un pò contorta e difficilmente automatizzabile in un futuro prossimo.
+Sarà quindi necessario sperimentare nuove strade per ottenere migliori risultati.
