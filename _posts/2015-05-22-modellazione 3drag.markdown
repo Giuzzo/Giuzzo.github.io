@@ -9,3 +9,5 @@ Le istruzioni per il montaggio sono disponibili su [rep rap](http://reprap.org/w
 La modellazione è stata fatta con versione studenti del software di modellazione parametrica [Autodesk Inventor](http://www.autodesk.it/products/inventor/overview). 
 
 Su [github](https://github.com/Giuzzo/Giuzzo.github.io/tree/master/link_modellazione/modello_3drag) sono presenti tutti i file nativi di modellazione( in formato ipt e iam) e il file STP dell'assemblato totale.
+
+![3drag_model](https://github.com/Giuzzo/Giuzzo.github.io/blob/master/link_img/30.JPG?raw=true)
