@@ -4,7 +4,7 @@ title: 1.5 Progettazione case - Bom
 layout: post
 ---
 
-| Assieme | | | | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
+| Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
 |         |                       |       |                                 |    |       |                    |                  |            |               |             |
 | 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | Futura Elettronica |                  |            |               |             |
