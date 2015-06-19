@@ -1,6 +1,6 @@
 ---
 published: true
-title: 1.3 Modellazione 3drag
+title: 1.4 Modellazione 3drag
 layout: post
 ---
 Parallelamente alle prime ipotesi di concept, e agli sketch preliminari del case si è proceduto con la modellazione digitale dei componenti e degli ingombri principali della stampante. 
