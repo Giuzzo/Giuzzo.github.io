@@ -7,16 +7,16 @@ layout: post
 | Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
 |         |                       |       |                                 |    |       |                    |                  |            |               |             |
-| 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | Futura Elettronica |                  |            |               |             |
-| 2       | struttura portante    | 02.01 | profilati verticali             | 4  | B     | Dierre Toscana     | 01.30.30.2A      | L 620 mm   | alluminio     |             |
-|         |                       | 02.02 | profilati orizzontali           | 3  | B     | Dierre Toscana     | 01.30.30.2A      | L 610 mm   | alluminio     |             |
-|         |                       | 02.03 | profilati orizzontali/lato      | 4  | B     | Dierre Toscana     | 01.30.30.2A      | L 375 mm   | alluminio     |             |
-|         |                       | 02.04 | profilati orizzontali/cave180   | 2  | B     | Dierre Toscana     | 01.30.30.2.180A  | L 610 mm   | alluminio     |             |
-|         |                       | 02.05 | cerniere                        | 2  | B     | Dierre Toscana     | 15-163-00        |            | alluminio     |             |
-|         |                       | 02.06 | profilati di collegamento 3drag | 4  | B     | Dierre Toscana     | 01-3030-4A       | L 136 mm   | alluminio     |             |
+| 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | FuturaElettronica |                  |            |               |             |
+| 2       | struttura portante    | 02.01 | profilati verticali             | 4  | B     | DierreToscana     | 01.30.30.2A      | L 620 mm   | alluminio     |             |
+|         |                       | 02.02 | profilati orizzontali           | 3  | B     | DierreToscana     | 01.30.30.2A      | L 610 mm   | alluminio     |             |
+|         |                       | 02.03 | profilati orizzontali/lato      | 4  | B     | DierreToscana     | 01.30.30.2A      | L 375 mm   | alluminio     |             |
+|         |                       | 02.04 | profilati orizzontali/cave180   | 2  | B     | DierreToscana     | 01.30.30.2.180A  | L 610 mm   | alluminio     |             |
+|         |                       | 02.05 | cerniere                        | 2  | B     | DierreToscana     | 15-163-00        |            | alluminio     |             |
+|         |                       | 02.06 | profilati di collegamento 3drag | 4  | B     | DierreToscana     | 01-3030-4A       | L 136 mm   | alluminio     |             |
 |         |                       | 02.07 | giunti angolari                 | 8  | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 02.08 | supporto piedini                | 4  | M     |                    |                  |            | PLA           | 3d printing |
-|         |                       | 02.09 | piedini                         | 4  | M     | Futura Elettronica |                  |            |               |             |
+|         |                       | 02.09 | piedini                         | 4  | M     | FuturaElettronica |                  |            |               |             |
 | 3       | schocche              | 03.01 | blocco pannelli                 | 41 | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 03.02 | staffa angolare foro/foro       | 2  | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 03.03 | staffa angolare foro/dado       | 4  | M     |                    |                  |            | PLA           | 3d printing |
@@ -52,7 +52,7 @@ layout: post
 | 6       | LCD                   | 06.01 | blocco 1LCD                     | 1  | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 06.02 | blocco 2LCD                     | 1  | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 06.03 | manopola LCD                    | 1  | M     |                    |                  |            | PLA           | 3d printing |
-| 7       | fasteners             | 07.01 | cursori a martello              | 73 | B (M) | Dierre Toscana     | 26-070-00        |            | alluminio/PLA |             |
+| 7       | fasteners             | 07.01 | cursori a martello              | 73 | B (M) | DierreToscana     | 26-070-00        |            | alluminio/PLA |             |
 |         |                       | 07.02 | viti M6 testa bombata           | 41 | B     | Borchiola          |                  | L 18 mm    |               |             |
 |         |                       | 07.03 | viti M8                         | 22 | B     | Borchiola          |                  |            |               |             |
 |         |                       | 07.04 | viti M6 testa bombata           |    |       | Borchiola          |                  | L12mm      | 
