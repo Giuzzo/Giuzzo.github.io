@@ -1,0 +1,10 @@
+---
+published: true
+title: 1.5 Progettazione case - Bom
+layout: post
+---
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
