@@ -4,7 +4,7 @@ title: 1.5 Progettazione case - Bom
 layout: post
 ---
 
-| Assieme | Denominazione assieme | Parte | Denominazione                   | N° |  M o B | Fornitore          | Codice Fornitore | Dimensioni | Materiale     | Lavorazione |
+| Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
 |         |                       |       |                                 |    |       |                    |                  |            |               |             |
 | 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | Futura Elettronica |                  |            |               |             |
@@ -55,17 +55,4 @@ layout: post
 | 7       | fasteners             | 07.01 | cursori a martello              | 73 | B (M) | Dierre Toscana     | 26-070-00        |            | alluminio/PLA |             |
 |         |                       | 07.02 | viti M6 testa bombata           | 41 | B     | Borchiola          |                  | L 18 mm    |               |             |
 |         |                       | 07.03 | viti M8                         | 22 | B     | Borchiola          |                  |            |               |             |
-|         |                       | 07.04 | viti M6 testa bombata           |    |       | Borchiola          |                  | L12mm      |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
+|         |                       | 07.04 | viti M6 testa bombata           |    |       | Borchiola          |                  | L12mm      |               
