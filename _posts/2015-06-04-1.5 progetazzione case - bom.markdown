@@ -56,4 +56,4 @@ layout: post
 |         |                       | 07.02 | viti M6 testa bombata           | 41 | B     | Borchiola          |                  | L 18 mm    |               |             |
 |         |                       | 07.03 | viti M8                         | 22 | B     | Borchiola          |                  |            |               |             |
 |         |                       | 07.04 | viti M6 testa bombata           |    |       | Borchiola          |                  | L12mm      | 
-|         |                                    |           |                                           | 1  | B     | Futura Elettronica |                  |            |               |             |
+|______|__________________|           |                                           | 1  | B     | Futura Elettronica |                  |            |               |             |
