@@ -5,5 +5,7 @@ layout: post
 ---
 
 | First Header  | Second Header |
+
 | ------------- | ------------- |
+
 | Content Cell  | Content Cell  |
