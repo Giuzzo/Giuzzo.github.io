@@ -52,7 +52,8 @@ layout: post
 | 6       | LCD                   | 06.01 | blocco 1LCD                     | 1  | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 06.02 | blocco 2LCD                     | 1  | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 06.03 | manopola LCD                    | 1  | M     |                    |                  |            | PLA           | 3d printing |
-| 7       | fasteners             | 07.01 | cursori a martello              | __73 | ____B (M) | Dierre Toscana     | 26-070-00        |            | alluminio/PLA |             |
+| 7       | fasteners             | 07.01 | cursori a martello              | 73 | B (M) | Dierre Toscana     | 26-070-00        |            | alluminio/PLA |             |
 |         |                       | 07.02 | viti M6 testa bombata           | 41 | B     | Borchiola          |                  | L 18 mm    |               |             |
 |         |                       | 07.03 | viti M8                         | 22 | B     | Borchiola          |                  |            |               |             |
-|         |                       | 07.04 | viti M6 testa bombata           |    |       | Borchiola          |                  | L12mm      |               
+|         |                       | 07.04 | viti M6 testa bombata           |    |       | Borchiola          |                  | L12mm      | 
+|         |                                    |           |                                           | 1  | B     | Futura Elettronica |                  |            |               |             |
