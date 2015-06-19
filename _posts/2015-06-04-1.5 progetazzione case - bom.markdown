@@ -4,7 +4,7 @@ title: 1.5 Progettazione case - Bom
 layout: post
 ---
 
-Denominazione | N° | Materiale
+Denominazione | N°    | Materiale
 ----|------|----
 foo | foo  | foo
 bar | bar  | bar
