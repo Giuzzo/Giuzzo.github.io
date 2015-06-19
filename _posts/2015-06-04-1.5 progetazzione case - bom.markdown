@@ -4,9 +4,15 @@ title: 1.5 Progettazione case - Bom
 layout: post
 ---
 
+Dopo gli sketch e le ipotesi preliminari si è iniziata la progettazione, con relativa ingenierizzazione del case, considerando sempre le tecnologie disponibili all'interno di WeMake.
+Il telaio strutturale sara costituito da profilati in alluminio acquistati da un'azienda esterna, nella fattispecie [Dierre Toscana](http://dierre.eu/profili-e-sistemi-modulari/comp-di-assemblaggio-br-span-per-profili-span).
+Tutti i pannelli esterni di copertura, ed interni di divisione delle zone funzionali saranno realizzati in [Parapan](http://sadun.it/prodotti/parapan/), un materiale polimerico molto utilizzato in cucina per le sue ottime proprietà antigraffio e di facile pulizia, sfruttando il taglio laser.
+I vari giunti utili a collegare i profilati tra di loro, nonche con la stampante e con i pannelli verranno realizzati invece tramite stampa 3d FDM in PLA.
+
+Di seguito un'immagine del modello digitale della configurazione finale del case, in fondo è riportato il Bill of Materials.
+
 | Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
-|         |                       |       |                                 |    |       |                    |                  |            |               |             |
 | 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | FuturaElettronica |                  |            |               |             |
 ____________________________________________________________________________________________________________
 | 2       | struttura portante    | 02.01 | profilati verticali             | 4  | B     | DierreToscana     | 01.30.30.2A      | L 620 mm   | alluminio     |             |
