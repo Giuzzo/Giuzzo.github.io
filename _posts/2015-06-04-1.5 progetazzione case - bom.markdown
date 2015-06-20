@@ -12,9 +12,7 @@ I vari giunti utili a collegare i profilati tra di loro, nonche con la stampante
 Di seguito un'immagine del modello digitale della configurazione finale del case, in fondo è riportato il Bill of Materials.
 
 | Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
-
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
-
 | 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | FuturaElettronica |                  |            |               |             |
 | 2       | struttura portante    | 02.01 | profilati verticali             | 4  | B     | DierreToscana     | 01.30.30.2A      | L 620 mm   | alluminio     |             |
 |         |                       | 02.02 | profilati orizzontali           | 3  | B     | DierreToscana     | 01.30.30.2A      | L 610 mm   | alluminio     |             |
