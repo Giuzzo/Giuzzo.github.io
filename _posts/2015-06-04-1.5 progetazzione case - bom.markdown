@@ -14,7 +14,6 @@ Di seguito un'immagine del modello digitale della configurazione finale del case
 | Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
 | 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | FuturaElettronica |                  |            |               |             |
-____________________________________________________________________________________________________________
 | 2       | struttura portante    | 02.01 | profilati verticali             | 4  | B     | DierreToscana     | 01.30.30.2A      | L 620 mm   | alluminio     |             |
 |         |                       | 02.02 | profilati orizzontali           | 3  | B     | DierreToscana     | 01.30.30.2A      | L 610 mm   | alluminio     |             |
 |         |                       | 02.03 | profilati orizzontali/lato      | 4  | B     | DierreToscana     | 01.30.30.2A      | L 375 mm   | alluminio     |             |
