@@ -4,13 +4,21 @@ title: 1.5 Progettazione case - Bom
 layout: post
 ---
 
-Dopo gli sketch e le ipotesi preliminari si è iniziata la progettazione, con relativa ingenierizzazione del case, considerando sempre le tecnologie disponibili all'interno di WeMake.
+Dopo gli sketch e le ipotesi preliminari si è iniziata la modellazione, cintemporaneamente all'ingenierizzazione del case, considerando sempre le tecnologie disponibili all'interno di WeMake.
 Il telaio strutturale sara costituito da profilati in alluminio acquistati da un'azienda esterna, nella fattispecie [Dierre Toscana](http://dierre.eu/profili-e-sistemi-modulari/comp-di-assemblaggio-br-span-per-profili-span).
-Tutti i pannelli esterni di copertura, ed interni di divisione delle zone funzionali saranno realizzati in [Parapan](http://sadun.it/prodotti/parapan/), un materiale polimerico molto utilizzato in cucina per le sue ottime proprietà antigraffio e di facile pulizia, sfruttando il taglio laser.
-I vari giunti utili a collegare i profilati tra di loro, nonche con la stampante e con i pannelli verranno realizzati invece tramite stampa 3d FDM in PLA.
+Tutti i pannelli esterni di copertura, ed interni di divisione delle zone funzionali saranno tagliate con la tecnologie del laser realizzati in [Parapan](http://sadun.it/prodotti/parapan/), un materiale polimerico molto utilizzato in cucina per le sue ottime proprietà antigraffio e di facile pulizia.
+I vari giunti utili a collegare i profilati tra di loro, nonche con la stampante e con i pannelli verranno realizzati invece tramite stampa 3d FDM in PLA. 
+Al suo interno troverà poi posto nella zona inferiore un piccolo frigorifero elettrico recuperato ed adattato da una borsa frigorifera da auto. Sempre nella zona inferiore, nelle due aree laterali troveranno allogiamento la scheda elettronica di controllo e l'alimentatore della stampante.
 
-Di seguito un'immagine del modello digitale della configurazione finale del case, in fondo è riportato il Bill of Materials.
+Di seguito delle immagine del modello digitale della configurazione finale del case, in fondo è riportata la distinta dei componenti utilizzati.
 
+![case1](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/31.JPG)
+
+![case2](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/32.JPG)
+
+![case3](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/33.JPG)
+
+####Bill of Materials
 | Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
 | 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | FuturaElettronica |                  |            |               |             |
