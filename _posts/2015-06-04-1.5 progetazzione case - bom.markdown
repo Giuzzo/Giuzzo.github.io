@@ -19,6 +19,7 @@ Di seguito delle immagine del modello digitale della configurazione finale del c
 ![case3](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/33.JPG)
 
 ####Bill of Materials
+
 | Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
 | 1       | 3drag                 | 1     | 3drag choko                     | 1  | B     | FuturaElettronica |                  |            |               |             |
