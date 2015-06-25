@@ -1,19 +1,23 @@
 ---
 published: true
-title: 1.7 Progettazione case - Componenti stampati
+title: 1.8 Progettazione case - Laser Cut
 layout: post
 ---
 
-Sono stati stampati FDM, in [PLA](https://it.wikipedia.org/wiki/Acido_polilattico): i giunti di collegamento tra i profilati del telaio esterno, i collegamenti fra telaio esterno e telaio della stampante, nonche tutti i vari blocchi di fissaggio dei pannelli.
+Tutti i pannelli di copertura esterni, e le sponde divisorie interne sono state ricavate da pannelli di parapan di 4mm di spessore.
+Nello specifico sono stati utilizzati due pannelli di 1200 X 900 mm, e due panneli più piccoli di 600 X 300 mm.
+Sono stati eseguiti dei test preliminari su alcuni provini di materiale per poter calibrare velocità è potenza del laser sul materiale in questione per le diverse lavorazioni necessarie (taglio ed engraving).
+Il tempo macchina complessivo per realizzare tutte le lavorazioni è stato di circa 5 ore.
 
-Tali i componenti, riportati nel dettaglio (per numero di pezzi e funzione) nel bom sono stati modellati con il software parametrico [Autodesk Inventor](http://www.autodesk.it/products/inventor/overview), dal quale sono poi stati esportati in [STL](https://it.wikipedia.org/wiki/STL_(formato_di_file)) in modo da poter essere importati nel software di slicing [Cura](https://software.ultimaker.com/) in modo da ottenere il [G-Code](https://it.wikipedia.org/wiki/Codice_G) da importare nella stampante.
+Di seguito i disegni di taglio:
 
-Sono state utilizzate tre macchine differenti (con differenti profili di slicing) per la realizzazione di tutti i componenti:
+![laser1](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/36.jpg) 
 
-- [Lulzbot Taz4](https://www.lulzbot.com/catalog)
-- [Gimax Maty](http://www.gimax3d.com/maty_gimax-3d.html)
-- [Ultimaker1](https://ultimaker.com/)
+![laser2](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/37.jpg)
 
-![curascreen](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/34.png)
+![laser3](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/38.jpg)
 
-![curascreen2](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/35.png)
+![laser4](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/39.jpg)
+
+
+
