@@ -13,3 +13,7 @@ Sono state utilizzate tre macchine differenti (con differenti profili di slicing
 - [Lulzbot Taz4](https://www.lulzbot.com/catalog)
 - [Gimax Maty](http://www.gimax3d.com/maty_gimax-3d.html)
 - [Ultimaker1](https://ultimaker.com/)
+
+![curascreen](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/34.png)
+
+![curascreen2](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/35.png)
