@@ -1,0 +1,16 @@
+---
+published: true
+title: 1.4 Modellazione 3drag
+layout: post
+---
+Dopo una prima fase di ricerca si è proceduto con la progettazione vera e propria del case.
+Sono state fatte una serie di scelte a monte legate alla possibilità di realizzazione del manufatto all'interno di WeMake con le tecnologie disponibili.
+
+Innanzitutto si è ritenuto opportuno rimandare il lavoro maggiormente oneroso a livello strutturale ad un telaio in alluminio ottenuto dall'assemblaggio di profili commerciali.
+Nella fattispecie l'azienda di riferimento è stata [Dierre Toscana](http://dierre.eu/profili-e-sistemi-modulari/comp-di-assemblaggio-br-span-per-profili-span).
+In secondo luogo si è evitato di avere grandi superfici curvate in quanto sarebbe risultato molto impegnativo e di scarso successo ottenere una corretta termoformatura.
+
+Tutti i pannelli esterni di copertura, ed interni di divisione delle zone funzionali saranno tagliate con la tecnologie del laser realizzati in [Parapan](http://sadun.it/prodotti/parapan/), un materiale polimerico molto utilizzato in cucina per le sue ottime proprietà antigraffio e di facile pulizia.I vari giunti utili a collegare i profilati tra di loro, nonche con la stampante e con i pannelli verranno realizzati invece tramite stampa 3d FDM in PLA. 
+
+Al suo interno troverà poi posto nella zona inferiore un piccolo frigorifero elettrico recuperato ed adattato da una borsa frigorifera da auto. Sempre nella zona inferiore, nelle due aree laterali troveranno allogiamento la scheda elettronica di controllo e l'alimentatore della stampante.
+

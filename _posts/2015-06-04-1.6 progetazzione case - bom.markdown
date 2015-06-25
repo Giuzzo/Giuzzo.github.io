@@ -1,14 +1,11 @@
 ---
 published: true
-title: 1.5 Progettazione case - Bom
+title: 1.6 Progettazione case - Bom
 layout: post
 ---
 
 Dopo gli sketch e le ipotesi preliminari si è iniziata la modellazione, cintemporaneamente all'ingenierizzazione del case, considerando sempre le tecnologie disponibili all'interno di WeMake.
 Il telaio strutturale sara costituito da profilati in alluminio acquistati da un'azienda esterna, nella fattispecie [Dierre Toscana](http://dierre.eu/profili-e-sistemi-modulari/comp-di-assemblaggio-br-span-per-profili-span).
-Tutti i pannelli esterni di copertura, ed interni di divisione delle zone funzionali saranno tagliate con la tecnologie del laser realizzati in [Parapan](http://sadun.it/prodotti/parapan/), un materiale polimerico molto utilizzato in cucina per le sue ottime proprietà antigraffio e di facile pulizia.
-I vari giunti utili a collegare i profilati tra di loro, nonche con la stampante e con i pannelli verranno realizzati invece tramite stampa 3d FDM in PLA. 
-Al suo interno troverà poi posto nella zona inferiore un piccolo frigorifero elettrico recuperato ed adattato da una borsa frigorifera da auto. Sempre nella zona inferiore, nelle due aree laterali troveranno allogiamento la scheda elettronica di controllo e l'alimentatore della stampante.
 
 Di seguito delle immagine del modello digitale della configurazione finale del case, in fondo è riportata la distinta dei componenti utilizzati.
 
@@ -18,7 +15,7 @@ Di seguito delle immagine del modello digitale della configurazione finale del c
 
 ![case3](https://raw.githubusercontent.com/Giuzzo/Giuzzo.github.io/master/link_img/33.JPG)
 
-##Bill of Materials
+###Bill of Materials
 
 | Assieme | Denominazione assieme | Parte | Denominazione| N° | M o B | Fornitore | Codice Fornitore | Dimensioni | Materiale | Lavorazione |
 |:---------:|:--------------------------------:|:-------:|:---------------------------------:|:----------:|:-----------------:|:-----------------------------:|:------------------:|:------------:|:---------------:|:-------------:|
@@ -67,8 +64,8 @@ Di seguito delle immagine del modello digitale della configurazione finale del c
 | 6       | LCD                   | 06.01 | blocco 1LCD                     | 1  | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 06.02 | blocco 2LCD                     | 1  | M     |                    |                  |            | PLA           | 3d printing |
 |         |                       | 06.03 | manopola LCD                    | 1  | M     |                    |                  |            | PLA           | 3d printing |
-| 7       | fasteners             | 07.01 | cursori a martello              | 73 | B (M) | DierreToscana     | 26-070-00        |            | alluminio/PLA |             |
-|         |                       | 07.02 | viti M6 testa bombata           | 41 | B     | Borchiola          |                  | L 18 mm    |               |             |
-|         |                       | 07.03 | viti M8                         | 22 | B     | Borchiola          |                  |            |               |             |
-|         |                       | 07.04 | viti M6 testa bombata           |    |       | Borchiola          |                  | L12mm      | 
+| 7       | fasteners             | 07.01 | cursori a martello              | 73 | B (M) | DierreToscana     | 26-070-00        |            | alluminio(PLA) |             |
+|         |                       | 07.02 | viti M6 testa bombata           | 41 | B     | FerramentaBorchiola          |                  | L 18 mm    |               |             |
+|         |                       | 07.03 | viti M8                         | 22 | B     | FerramentaBorchiola          |                  |            |               |             |
+|         |                       | 07.04 | viti M6 testa bombata           |    |       | FerramentaBorchiola          |                  | L12mm      | 
 |______|________________________________________________________|_________|_____________________|______|_________|____________________________________|____________|___________|______________|________________|

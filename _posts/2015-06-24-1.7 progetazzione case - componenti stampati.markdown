@@ -1,0 +1,15 @@
+---
+published: true
+title: 1.6 Progettazione case - Componenti stampati
+layout: post
+---
+
+Sono stati stampati FDM, in [PLA](https://it.wikipedia.org/wiki/Acido_polilattico): i giunti di collegamento tra i profilati del telaio esterno, i collegamenti fra telaio esterno e telaio della stampante, nonche tutti i vari blocchi di fissaggio dei pannelli.
+
+Tali i componenti, riportati nel dettaglio (per numero di pezzi e funzione) nel bom sono stati modellati con il software parametrico [Autodesk Inventor](http://www.autodesk.it/products/inventor/overview), dal quale sono poi stati esportati in [STL](https://it.wikipedia.org/wiki/STL_(formato_di_file)) in modo da poter essere importati nel software di slicing [Cura](https://software.ultimaker.com/) in modo da ottenere il [G-Code](https://it.wikipedia.org/wiki/Codice_G) da importare nella stampante.
+
+Sono state utilizzate tre macchine differenti (con differenti profili di slicing) per la realizzazione di tutti i componenti:
+
+- [Lulzbot Taz4](https://www.lulzbot.com/catalog)
+- [Gimax Maty](http://www.gimax3d.com/maty_gimax-3d.html)
+- [Ultimaker1](https://ultimaker.com/)
