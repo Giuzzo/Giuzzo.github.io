@@ -1,6 +1,6 @@
 ---
 published: true
-title: 1.4 Modellazione 3drag
+title: 1.5  Progettazione case - Concept
 layout: post
 ---
 Dopo una prima fase di ricerca si è proceduto con la progettazione vera e propria del case.
