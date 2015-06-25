@@ -1,6 +1,6 @@
 ---
 published: true
-title: 1.6 Progettazione case - Componenti stampati
+title: 1.7 Progettazione case - Componenti stampati
 layout: post
 ---
 
